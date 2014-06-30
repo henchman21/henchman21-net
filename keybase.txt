@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/tbaschak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://henchman21.net
+  * I am tbaschak (https://keybase.io/tbaschak) on keybase.
+  * I have a public key with fingerprint 13F2 3C54 26FF B28A CF0D  34DC C1AC A463 B519 C47E
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "13f23c5426ffb28acf0d34dcc1aca463b519c47e",
+            "host": "keybase.io",
+            "key_id": "c1aca463b519c47e",
+            "uid": "f48a53f6f342ccc47db39b094f2abf00",
+            "username": "tbaschak"
+        },
+        "service": {
+            "hostname": "henchman21.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1404103015,
+    "expire_in": 157680000,
+    "prev": "7ed0148730d516aab5e0d55b10f04af532f76ad21356f220e23581748fe797e6",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - http://gpgtools.org
+
+owGbwMvMwMT4Rjw6ZXF56kTG0we+JTEEb3iZW62UlJ9SqWRVrZSdCqbSMvPSU4sK
+ijLzSpSslAyN04yMk01NjMzS0pKMLBKT0wxSjE1SkpMNE5MTTcyMk0wNLZNNzFOV
+dJQy8otBOoDGJCUWp+pl5gPFgJz4zBSgKBb1pWCJNBOLRFPjNLM0YxOj5GSgVEqS
+sWWSgaVJmlFiUpqBAUhhcWpRXmJuKlB1CdDo5IzEbKVaHSWgaFlmcirIzSCroSoy
+UvOSM3IT84wM9fJSS4C6C4ryS/KT83NAciUlBcVWIL0llQUgxeWpSfFQY+KTMvNS
+gF4H6ihLLSrOzM9TsjIEqkwuyQSZa2hiYGJoYGxgaKqjlFpRkFmUGp8JUmFqbmZh
+AAQge1LLgEaap6YYGJpYmBsbpJgamiUmJpmmAlmmSYYGaQYmiWmmxkZp5maJKUaG
+xqZmaUZGBqlGxqYWhuYmFmmp5pbmqWZKII8V5uUDzTYGujMxHWhmcWZ6XmJJaVGq
+Ui1XJ5MMCwMjEwMbKxMo+hi4OAVgkcp/mf8XM5+R0qLJ9b0L95nouiXaXN3rHCce
+fne+bkHgerGIrR2eRs7arX+ObWKJVSho5TywfebXEynZr//usZ15IIzhonbAM/0Z
+yznzb63/lzqdfV332uNhZ5gEO8y4vnncNr3NeTxjskj/ikOd3+xvTFNR3VDE8P3I
+Mc6+xW+mrl7s2hfw5PGSpUnzeoLLvbd0Wd/ZcVB5/9VDMo5uL5ftecXJNzcm7xbb
+obCEQ7e02yNW87yZMztoldN/eZNrSa8aFhxIeeV98rZxcE/O1cZDXlOWx3teawvh
+bl3imFupI/Tp8TTtRQbn4uZ89brvfbExKpXNK9R9vu4mB42QYKHYP0r/L7pnWm4t
+qt76c2tDe8Djz+Y1SnfZg0OYgrffeB0xhcsu54mudozMxZmL4hYFy+jrscWkO+n6
+i00XXrnQYeqb67djoww4z2iWbN0bI6eqPuVSw2ZV3qbyHLus425uPBc6onS/HlJ+
++z1FRv/Gqhb7qPJvvIJMU9MuV7pxfxGLVJt4SfxqYm7ollXah/bZ+d//LTCxyL0q
+pfFz2o9pJnE2c7899mj7oHHmn51O/X5j56mGsqKhW/+4qB74eG/nzkbZtXunaF//
+dPd49KSHJ67Oavg1U26ryl17MZnv99KfbpF6fXV1eIrzkitWxdur5tZpXHAQL1O5
+fNun9IrvX92vjPqlt+fP1HBbYL+FfwP7zsWrp0tkS4VL5r57N3kJAA==
+=dQDj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tbaschak
+
+==================================================================
+
