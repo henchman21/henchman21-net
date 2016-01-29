@@ -8,14 +8,16 @@ I hereby claim:
   * I am tbaschak (https://keybase.io/tbaschak) on keybase.
   * I have a public key with fingerprint 13F2 3C54 26FF B28A CF0D  34DC C1AC A463 B519 C47E
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
         "key": {
+            "eldest_kid": "0101629f0265826113d80ca02b582e874019346ccb5a85c4f6bcb90895077a38719c0a",
             "fingerprint": "13f23c5426ffb28acf0d34dcc1aca463b519c47e",
             "host": "keybase.io",
             "key_id": "c1aca463b519c47e",
+            "kid": "0101629f0265826113d80ca02b582e874019346ccb5a85c4f6bcb90895077a38719c0a",
             "uid": "f48a53f6f342ccc47db39b094f2abf00",
             "username": "tbaschak"
         },
@@ -26,38 +28,40 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1416105151,
+    "ctime": 1454091952,
     "expire_in": 157680000,
-    "prev": "be751f8cb434bba59f42c42815d231442740ca600e06d0dd5e99f798b070375d",
-    "seqno": 24,
+    "prev": "31a36dec95887af1555f5fb9e7de720be91e83555505f48044ef51a83df1d097",
+    "seqno": 49,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
 
-owGbwMvMwMX4Rjw6ZXF56kTG0we+JTGEZPA8rFZKyk+pVLKqVspOBVNpmXnpqUUF
-RZl5JUpWSobGaUbGyaYmRmZpaUlGFonJaQYpxiYpycmGicmJJmbGSaaGlskm5qlK
-OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQFIv6UrBEmolFoqlxmlmasYlRcjJQKiXJ
-2DLJwNIkzSgxKc3AAKSwOLUoLzE3Fai6BGh0ckZitlKtjhJQtCwzORXkZpDVUBUZ
-qXnJGbmJeUaGenmpJUDdBUX5JfnJ+TkguZKSgmIrkN6SygKQ4vLUpHioMfFJmXkp
-QK8DdZSlFhVn5ucpWRkCVSaXZILMNTQxNDM0MDU0NdRRSq0oyCxKjc8EqTA1N7Mw
-AAKQPallQCOTUs1NDdMskpNMjE2SkhJNLdOA/jIxsjA0TTEyNjQxMTI3MUhONDMw
-SDUwSzFISTFNtbRMM7e0SDIwNzA2N01RAnmsMC9fycrIBOjOxHSgmcWZ6XmJJaVF
-qUq1XJ1MMiwMjFwMbKxMoOhj4OIUgEXqNy7+/wnOenb+1zR4BZ/f2yEq8uto36Tr
-jxYvi+a79rHM9Yywyo2P6qUP92UvthKcx+C34Ktzef12X73nNfUc2h95jly8PNl+
-4TzmyaIrfp6d4WrDY3mdu2zTZ7+UaF3j561nHnvtmBs01/7F7Tf5J0uWslg7zrvQ
-PHd65S7ZWcHLS1a8vKSy2n1uZk8p4w8lLQ69dWyfX6bcyefwzVrM7M62fs3FnL8+
-ZbYrIv6Xhq9JeXP7dNmUD7W+xlJC+1oWHed85bNf7hjrNbNnH6+2nXmUl2bbzxjB
-v+XKKtatbxkk2WqS7m/aJOsQuOmfrYzdvh7HCPVsLc16Js+N9h3F397UFa5skf9/
-V+5RU2bWtLf5VlLbzq6e/vdgDGeLtVBjlt2Xngd72X//Kmw6GXpoQc3PT4oVAh8P
-a/pN3KNt8Wdq/+9Hh/yOpZU3vPznc9w73XRZh/+8H5zPowr2XJSR/Po4R+TD96ee
-gdsnLrscZnp1U23dgRvCvev95r5c/LC1JEJh12WRc5bv+DXKHbZ97FvKKGDPsPOw
-A++31A16XX0i7yJjS4vs+RycPdXmmYcHcNbOebNc68aM/wXTXlxaGLoubVn1jcUB
-0dMfMvlfahT6xRfy/vCncJ1nMz+tnah3y8h+UaMO+9nZr0/xLRWbM9mPKdRfa5mO
-0XvDLzMOzphkt9S2Y+a8nqD1Uwz+2GebOyeyq/dzJ8c8ClieuOrzCwMA
-=tEK7
+owGtUm1QVGUUXj5SXIRVnJFysLYLjgoE9+u9H3xNTgpOgWmEQWLb/Xgv3IC76+4V
+WW0Bw5AtYcKybGyg0hq+oslidBIlDEdWEFCUAGdsUiN3cBSBH5pmvZexf/3s/fPO
+Oed5nvOcM+eDsCCTOeBW5Bb58A5YH9DnF02bW9u7dmGiXXZjSbuwIjj3wWIZunRb
+kSpjSRhO4ARD8gpOMoAjGYKgZA6XBJwUUQg5lsYJnqIZSRKBwAGJVhhREnmc4wHO
+sgLFsQQv4QIWjymqVgCdDqeq6UiWoBSSkgBNMooikpwgKbhM0bIkEYIk0AwlAsSj
+WYiIhXaXwUDmRMEFE1Q7yqHANmfvP/D/s+/tc3IKzQmAUhiFoklJQp1kkeJFnKcV
+UhAVHDeALujUhBKI0DpyKhUKRZgnHkPZUlWCxmKNSR4jCqEmFZYIGkkkaFBHbIfT
+rtsle7FR03WHK8ng6m6HAd4BRdtjGZuoajLaJGKUQqdLtWtYEoGQkq4augQNaJwn
+eEDGY7DMoTqhTTUQgGU4HD2jDyxFkhQhUMwWGUo84DhWUAgAgAIUkYesDFkSFyFP
+QI5CWYADNDxO01ABhMBRskLIOM9ixmTbNDuWRPPIqFCARF1qgSbo250Q85i9gVHB
+pgCzad4TgcaRmcwLFv17eQeFRaae0D7P7T/lqWHzIXA4OTnn/FCDtqrrm19509fh
+WRe76PHl3uv7Q3JfCf2iLjU65KI4fiZyat1AwfBL7nxP2/M+/0zsnsCT2vznfjz4
+TtbHmYrf92RQ+uAb1xkt8dHq0dsbOr/rzalbYCufl+CrutG4bKRiW1yio3ZsibOj
+ZrY4Yn3lw5T17KHo6pXv+4KbflLvrjzQMVA7vuGYZSA2tGVjTPj9PYz56Octd7IT
+K19dkxtWUV+x2Htl2Ns9m+Idjlzd2fJ0oPszz97pqu6Xg3JjLpU/mFk4mXmuuufF
+5E2/wN+Ov566FutoPf9pcExDinVYHt05PV7TWj+7f+RKdllej5C2Rh27sDlv8suq
+svLgZ5pPtbn6LBGLp4bkU76Z0+Uhl4/MlwdPTzBHQtt/3/dzd9vNEbX94e4eS941
+/31uSHX7QqzNt6I+8lPLzi63NO7Lv2d+tzYuNXd2LKNrYuuK/LcataXtJ3ZnpGuh
+rVr8DVv/5c5YS8VTlnN1fZGjaW3pWTPVV2eUe52m3uRjY2SU25rb3wveXloStyI9
+7W7b4En1gWc6usy6sHroEpvZ9Ffv99Z1O5f011SA6KC1z958bevGN/cElEYkVH5S
+d83q7/97U4wpoiGnMPtRU2/kt1pn/IU7qWGrJsO7hfeOD+jMgazKs5ne5h9GR18I
+/6NAyZjwfXX1xJmjrdSH/wA=
+=kDc/
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
